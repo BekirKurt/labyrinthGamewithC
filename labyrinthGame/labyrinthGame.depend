@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649538848 source:c:\users\bekir\onedrive\masaüstü\kod1\labyrinthgame\main.c
+	<stdio.h>
+	<stdlib.h>
+
