@@ -10,13 +10,10 @@ int main()
 
     char matris[a][b];
 
-
     int oyuncubirpositionx = 1;
     int oyuncubirpositiony = 2;
     int oyuncuikipositionx = a-2;
     int oyuncuikipositiony = 2;
-
-
 
     for(int i=1;i<a-1;i++){
         for(int j=1;j<b-1;j++){
@@ -275,12 +272,10 @@ int main()
                 }
             }
         }
-
         else{
-            printf("Geçersiz islem girdiniz");
+            printf("GeÃ§ersiz islem girdiniz");
         }
 
     }
-
     return 0;
 }
